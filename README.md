@@ -1,6 +1,9 @@
 # uSCXML ReadMe
 
-[![Build Status](https://travis-ci.org/tklab-tud/uscxml.png?branch=master)](https://travis-ci.org/tklab-tud/uscxml)[![Build status](https://ci.appveyor.com/api/projects/status/b3mwo7w2qhtjal6f/branch/master?svg=true)](https://ci.appveyor.com/project/sradomski/uscxml/branch/master)[![Build status](https://scan.coverity.com/projects/11688/badge.svg)](https://scan.coverity.com/projects/tklab-tud-uscxml)[![Coverage Status](https://coveralls.io/repos/github/tklab-tud/uscxml/badge.svg?branch=master)](https://coveralls.io/github/tklab-tud/uscxml?branch=master)
+[![Build Status](https://travis-ci.org/tklab-tud/uscxml.png?branch=master)](https://travis-ci.org/tklab-tud/uscxml) 
+[![Build status](https://ci.appveyor.com/api/projects/status/rnnckiltteboqqq1/branch/master?svg=true)](https://ci.appveyor.com/project/stil/uscxml/branch/master)
+[![Build status](https://scan.coverity.com/projects/11688/badge.svg)](https://scan.coverity.com/projects/tklab-tud-uscxml)
+[![Coverage Status](https://coveralls.io/repos/github/tklab-tud/uscxml/badge.svg?branch=master)](https://coveralls.io/github/tklab-tud/uscxml?branch=master)
 
 #### Quick Links
 
