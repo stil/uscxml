@@ -23,3 +23,7 @@ before_build:
     - cmake -G "NMake Makefiles" ..
 
 build_script: nmake
+
+artifacts:
+    - path: bin
+      name: uscxml
