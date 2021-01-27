@@ -25,5 +25,5 @@ before_build:
 build_script: nmake
 
 artifacts:
-    - path: bin
+    - path: ..\bin
       name: uscxml
